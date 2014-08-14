@@ -1,0 +1,976 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"ce",
+				"clear"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"f",
+				"frameset	Tag"
+			],
+			[
+				"ta",
+				"TEXTAREA	Tag"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"col",
+				"colum_content"
+			],
+			[
+				"con",
+				"Condensed"
+			],
+			[
+				"Mar",
+				"margin"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"fi",
+				"fieldset"
+			],
+			[
+				"br",
+				"border-spacing"
+			],
+			[
+				"t",
+				"text-transform"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"fn",
+				"font-size"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"scren",
+				"screenblack"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"ro",
+				"rotador"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"c",
+				"disc"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"mE",
+				"margin-left"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"or",
+				"overflow"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"anm",
+				"animate"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"SL",
+				"slider"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"fot",
+				"footer	Tag"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"codici",
+				"Condicion"
+			],
+			[
+				"subca",
+				"subcateg"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"elimina",
+				"eliminar_cat"
+			],
+			[
+				"id",
+				"idcat"
+			],
+			[
+				"catego",
+				"categoria"
+			],
+			[
+				"inpu",
+				"INPUT	Tag"
+			],
+			[
+				"categ",
+				"categoria"
+			],
+			[
+				"caegoria",
+				"Categoria"
+			],
+			[
+				"i",
+				"italic"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11265,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": ".logo{\n	display: block;\n	margin:  0 auto;\n	padding-top:15%;\n	width: 50%;\n}\n.logo img{\n	width: 100%;\n}\n.demo-1 .sl-slide div.pasos{\n	background: #fff;\n	padding: 3px 10px 5px 60px;\n	position: relative;\n	font-size: 30px;\n	font-weight: normal;\n	font-family: 'Didact Gothic', sans-serif;\n	margin-top: 25px;\n	margin-bottom: 20px;\n	width: 100%;\n	text-align: left;\n	top: 25%;\n	/**margin: 0 0 -120px 0;*/\n}\ndiv.pasos .paso{\n	color: #fff;\n	display: block;\n	border:4px solid #fff;\n	border-radius: 50px;\n	font-family: 'Questrial', sans-serif;\n	font-size: 35px;\n	font-weight: bold;\n	height:70px;\n	left:-25px;\n	position: absolute;\n	text-align: center;\n	padding-top:15px; \n	top:-10px;\n	width: 70px;\n}\n.next{\n	color: #fff;\n	cursor: pointer;\n	border:0;\n	border-radius: 5px;\n	display: block;\n	font-family: 'Questrial', sans-serif;\n	font-size: 25px;\n	float: right;\n	height: 42px;\n	width: 73px;\n}\n.next:hover{\n	background: #333;\n}\n.red{\n	background: #be120d;\n}\n.lemon{\n	background: #8fd200;\n}\n.responsivepage h1{\n	color: #087f8f;\n	width: 80%;\n	max-width: 960px;\n	margin: 0 auto;\n	font-size: 20px;\n	position: relative;\n	padding: 20px 0 5px 0;\n	text-transform: uppercase;\n	z-index: 100;\n}\n.hred{\n	color: #be120d;\n}\n.hgreen{\n	color: #8fd200;\n}\n.fields{\n	overflow: hidden;\n}\n.fields label{\n	color: #444444;\n	display: inline-block;\n	font-family: 'Roboto Regular', sans-serif;\n	font-size: 14px;\n	text-align: right;\n	padding:5px 10px 5px 10px;\n	width: 20%;\n}\n.fields input,.fields select, .fields textarea{\n	color: #444444;\n	border: 2px solid #59f9fb;\n	border-radius: 10px;\n	font-family: 'Roboto Regular', sans-serif;\n	font-size: 14px;\n	margin: 2px 0;\n	padding:6px 10px;\n	\n}\n.fieldblockleft, .fieldblockright{\n	display: inline-block;\n	vertical-align: top;\n}\n.paso1 input{\n	width: 35%;\n}\n.paso2 input, .paso2 select{\n	/*width: 35%;*/\n}\nfieldset{\n	border: 0;\n	margin: 15px 0;\n}\n\n#lean_overlay {\n    position: fixed;\n    z-index:100;\n    top: 0px;\n    left: 0px;\n    height:100%;\n    width:100%;\n    background: #000;\n    display: none;\n}\n#agregar_local {\n    position: relative;\n	width: 300px;\n	padding: 30px; \n	display: none;\n	background: #FFF;\n	border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px;\n	box-shadow: 0px 0px 4px rgba(0,0,0,0.7); -webkit-box-shadow: 0 0 4px rgba(0,0,0,0.7); -moz-box-shadow: 0 0px 4px rgba(0,0,0,0.7);\n}\n#mapa {\n    position: fixed;\n    z-index:100;\n    top: 0px;\n    left: 0px;\n    height:500px;\n    width:700px;\n    background: #000;\n    display: none;\n}\n.modal_close{\n	position: absolute;\n	top: 12px;\n	right: 12px;\n	display: block;\n	width: 14px;\n	height: 14px;\n	z-index: 2;\n}\n\n.sl-slider-wrapper {\n	width: 800px;\n	height: 400px;\n	margin: 0 auto;\n	position: relative;\n	overflow: hidden;\n}\n\n.sl-slider {\n	position: absolute;\n	top: 0;\n	left: 0;\n}\n\n/* Slide wrapper and slides */\n\n.sl-slide,\n.sl-slides-wrapper,\n.sl-slide-inner {\n	position: absolute;\n	width: 100%;\n	height: 100%;\n	top: 0;\n	left: 0;\n} \n.responsivepage{\n	margin: 0 auto;\n	width:40%;\n	position: relative;\n} \n.sl-slide {\n	z-index: 1;\n}\n\n/* The duplicate parts/slices */\n\n.sl-content-slice {\n	overflow: hidden;\n	position: absolute;\n	-webkit-box-sizing: content-box;\n	-moz-box-sizing: content-box;\n	box-sizing: content-box;\n	background: #fff;\n	-webkit-backface-visibility: hidden;\n	-moz-backface-visibility: hidden;\n	-o-backface-visibility: hidden;\n	-ms-backface-visibility: hidden;\n	backface-visibility: hidden;\n	opacity : 1;\n}\n\n/* Horizontal slice */\n\n.sl-slide-horizontal .sl-content-slice {\n	width: 100%;\n	height: 50%;\n	left: -200px;\n	-webkit-transform: translateY(0%) scale(1);\n	-moz-transform: translateY(0%) scale(1);\n	-o-transform: translateY(0%) scale(1);\n	-ms-transform: translateY(0%) scale(1);\n	transform: translateY(0%) scale(1);\n}\n\n.sl-slide-horizontal .sl-content-slice:first-child {\n	top: -200px;\n	padding: 200px 200px 0px 200px;\n}\n\n.sl-slide-horizontal .sl-content-slice:nth-child(2) {\n	top: 50%;\n	padding: 0px 200px 200px 200px;\n}\n\n/* Vertical slice */\n\n.sl-slide-vertical .sl-content-slice {\n	width: 50%;\n	height: 100%;\n	top: -200px;\n	-webkit-transform: translateX(0%) scale(1);\n	-moz-transform: translateX(0%) scale(1);\n	-o-transform: translateX(0%) scale(1);\n	-ms-transform: translateX(0%) scale(1);\n	transform: translateX(0%) scale(1);\n}\n\n.sl-slide-vertical .sl-content-slice:first-child {\n	left: -200px;\n	padding: 200px 0px 200px 200px;\n}\n\n.sl-slide-vertical .sl-content-slice:nth-child(2) {\n	left: 50%;\n	padding: 200px 200px 200px 0px;\n}\n\n/* Content wrapper */\n/* Width and height is set dynamically */\n.sl-content-wrapper {\n	position: absolute;\n}\n\n.sl-content {\n	width: 100%;\n	height: 100%;\n	background: #fff;\n}\n\n/* Default styles for background colors */\n.sl-slide-horizontal .sl-slide-inner {\n	background: #ddd;\n}\n\n.sl-slide-vertical .sl-slide-inner {\n	background: #ccc;\n}\n\n@media screen and (max-width: 660px){\n	.responsivepage{\n		width: 100%;\n	} \n}\n@media screen and (min-width: 661px) and (max-width: 1024px){\n	.responsivepage{\n		width: 80%;\n	} \n}\n@media screen and (min-width: 1025px) and (max-width: 1280px){\n	.responsivepage{\n		width: 600px;\n	} \n}\n@media screen and (min-width: 1025px) and (max-width: 1280px){\n	.responsivepage{\n		width: 600px;\n	} \n}\n\n",
+			"file": "css/style.css",
+			"file_size": 5062,
+			"file_write_time": 130524660339643804,
+			"settings":
+			{
+				"buffer_size": 5165,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/icons.css",
+			"settings":
+			{
+				"buffer_size": 2105,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/PC/Documents/clientes_hachewd/smartclub/icomoon (2)/style.css",
+		"/C/Users/PC/Documents/clientes_hachewd/smartclub/icomoon/style.css",
+		"/C/Users/PC/Documents/clientes_hachewd/smartclub/wizard_html/css/custom.css",
+		"/C/Users/PC/Documents/clientes_hachewd/smartclub/wizard_html/css/demo.css",
+		"/C/Users/PC/Documents/clientes_hachewd/IMC/streaming.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/wp_mauriciofonseca/stream.asx",
+		"/C/Users/PC/Documents/clientes_hachewd/IMC/stream.asx",
+		"/C/Users/PC/Documents/clientes_hachewd/smartclub/wizard_html/css/style.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/wp_mauriciofonseca/wp-config.php",
+		"/C/Users/PC/Documents/clientes_hachewd/smartclub/wizard_html/index2.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/demo1.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/mauriciofonseca/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/mauriciofonseca/template/galeria1.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/mauriciofonseca/js/app.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/galerias/fancyapps-fancyBox-v2.1.5-0-ge2248f4/fancyapps-fancyBox-18d1712/demo/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/galerias/baguetteBox.js-master/baguetteBox.js-master/build/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/template/galeria1.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/hwd_sliders.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/glisse.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/gallery.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/hwd_galleries.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/template/galeria2.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/all_style.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/baguetteBox.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/hwd_galleries",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/template/home.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/baguetteBox.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/jquery.prettyPhoto.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/galerias/bootstrap-gallery/bootstrap-gallery/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/template/events.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/main.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/screen.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/galerias/bootstrap-gallery/bootstrap-gallery/js/plugins.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/app.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/galerias/lightbox-2.7.1/lightbox/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/style.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/lightbox.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/template/aboutme.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/animate.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/foundation.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/app_bk.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/glisse.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/angular-animate.min.js",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website-newdesign2/app.js",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website-newdesign2/controllers.js",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website-newdesign2/templates/trabajenosotrosformulario.html",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website-newdesign2/templates/productos.html",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website-newdesign2/templates/trabajeconnosotros.html",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website-newdesign2/services.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/template/about,e.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/classie.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/component.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/mlpushmenu.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/template/galeria_temp.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/modalEffects.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/screenfull.min.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/index3.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/icons.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/Victa-Glisse.js-46dd461/Victa-Glisse.js-46dd461/example-nostyles/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/Victa-Glisse.js-46dd461/Victa-Glisse.js-46dd461/example-nostyles/css/app.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/arte/style.css",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website-newdesign2/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/demo.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/galerias.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/template/galeria.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/index_sinmenu.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/galeria.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/GammaGallery/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/styles.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/galeria1.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/demo-styles.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/GammaGallery/GammaGallery/css/demo.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/s-gallery-master/s-gallery-master/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/ExpandingOverlayEffect/ExpandingOverlayEffect/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/GammaGallery/GammaGallery/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/ButtonComponentMorph/ButtonComponentMorph/index2.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/ModalWindowEffects/ModalWindowEffects/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/ButtonComponentMorph/ButtonComponentMorph/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/ModalWindowEffects/ModalWindowEffects/css/component.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/cssParser.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/css-filters-polyfill.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/CreativeLoadingEffects/CreativeLoadingEffects/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/ButtonComponentMorph/ButtonComponentMorph/index4.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/fullmenu1.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/modernizr.custom.94927.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/modernizr.custom2.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/modernizr.custom.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/menu.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/ButtonComponentMorph/ButtonComponentMorph/css/component.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/ButtonComponentMorph/ButtonComponentMorph/css/content.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/ButtonComponentMorph/ButtonComponentMorph/css/demo.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/PageLoadingEffects/PageLoadingEffects/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/js/snap.svg-min.js",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/FullscreenOverlayStyles/FullscreenOverlayStyles/css/demo.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/ElementTransitions.js-master/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/style4.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/PageTransitions/PageTransitions/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/website_mauricio/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/website_mauricio/css/style.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/website_mauricio/css/prettyPhoto.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/icons_sm.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/CSS3FullscreenSlideshow/index4.html",
+		"/C/Users/PC/Documents/clientes_hachewd/componentes_jquery/foundation-5.2.2/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/CSS3FullscreenSlideshow/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/CSS3FullscreenSlideshow/css/demo.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/css/style1.css",
+		"/C/Users/PC/Documents/clientes_hachewd/mauriciofonseca/website/index2.html",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/index.html",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/insti_ventajas.html",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/conocenos_noticias.html",
+		"/C/Users/PC/Documents/clientes_hachewd/componentes_jquery/SudoSlider/css/style.css",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/css/bjqs.css",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/css/int-presto.css",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/js/jquery.sudoSlider.min.js",
+		"/C/Users/PC/Documents/clientes_hachewd/componentes_jquery/SudoSlider/demos/rich content.html",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/contactanos.html",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/emails/recuperar_contrasena.html",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/emails/recuperar_contrasena",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/css/pedido-presto.css",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/cambios/index (1).html",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/cambios/skin.css",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/css/skin.css",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/cambios/int-presto.css",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/cambios/pedido-presto.css",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/reservar_fiesta.html",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/personalizar_hamburguesa.html",
+		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/css/component.css"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\PC\\Documents\\clientes_hachewd\\mauriciofonseca\\website",
+			"C:\\Users\\PC\\Documents\\clientes_hachewd\\presto\\presto_website"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sl-slide-inner\"",
+			".demo-1 .sl-slide ",
+			"h2",
+			"bg-1",
+			">",
+			"baguetteBoxOne",
+			");*/\n",
+			".menu li",
+			"src",
+			"data-glisse-big",
+			"trabajeconnosotrosCtrl",
+			"overlay",
+			"overlay-hugeinc",
+			"overlay",
+			"overlay a",
+			"overlay-close",
+			".description",
+			"description",
+			"galerias",
+			" );",
+			"glisse-next",
+			">",
+			"roll",
+			"glisse",
+			"e622",
+			"close",
+			"homeCtrl",
+			"ng-controller",
+			"gn-controller",
+			"contenido",
+			"content",
+			"mp-menu",
+			"figure.logo",
+			"gallery-container\n\n					    <ul class=\"items--small\">\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-1.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-2.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-3.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-4.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-5.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-6.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-7.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-8.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-9.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-10.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-11.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-12.png\" alt=\"\" /></a></li>\n					    </ul>\n					    <article>\n					    	<header>\n					    		<h1>Galeria Recents</h1>\n					    		<h2>Mis vivencias</h2>\n					    		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n					    		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n					    		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n					    		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n					    		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n					    		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n					    		</p>\n					    	</header>\n					    </article>\n					    <ul class=\"items--big\">\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-1.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-2.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-3.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-4.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-5.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-6.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-7.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-8.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-9.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-10.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-11.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-12.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					    </ul>\n					    <div class=\"controls\">\n					      <span class=\"control icon-arrow-left\" data-direction=\"previous\"></span> \n					      <span class=\"control icon-arrow-right\" data-direction=\"next\"></span> \n					      <span class=\"grid icon-grid\"></span>\n					      <span class=\"fs-toggle icon-fullscreen\"></span>\n					    </div>\n					    \n					  </div>",
+			"items--small\n\n					    <ul class=\"items--small\">\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-1.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-2.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-3.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-4.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-5.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-6.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-7.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-8.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-9.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-10.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-11.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-12.png\" alt=\"\" /></a></li>\n					    </ul>\n					    <article>\n					    	<header>\n					    		<h1>Galeria Recents</h1>\n					    		<h2>Mis vivencias</h2>\n					    		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n					    		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n					    		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n					    		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n					    		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n					    		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n					    		</p>\n					    	</header>\n					    </article>\n					    <ul class=\"items--big\">\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-1.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-2.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-3.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-4.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-5.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-6.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-7.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-8.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-9.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-10.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-11.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-12.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					    </ul>\n					    <div class=\"controls\">\n					      <span class=\"control icon-arrow-left\" data-direction=\"previous\"></span> \n					      <span class=\"control icon-arrow-right\" data-direction=\"next\"></span> \n					      <span class=\"grid icon-grid\"></span>\n					      <span class=\"fs-toggle icon-fullscreen\"></span>\n					    </div>\n					    \n					  </div>",
+			"iv id=\"gallery-container\">\n\n					    <ul class=\"items--small\">\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-1.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-2.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-3.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-4.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-5.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-6.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-7.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-8.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-9.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-10.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-11.png\" alt=\"\" /></a></li>\n					      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-12.png\" alt=\"\" /></a></li>\n					    </ul>\n					    <article>\n					    	<header>\n					    		<h1>Galeria Recents</h1>\n					    		<h2>Mis vivencias</h2>\n					    		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n					    		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n					    		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n					    		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n					    		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n					    		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n					    		</p>\n					    	</header>\n					    </article>\n					    <ul class=\"items--big\">\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-1.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-2.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-3.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-4.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-5.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-6.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-7.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-8.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-9.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-10.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-11.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					      <li class=\"item--big\">\n					        <a href=\"#\">\n					          <figure>\n					            <img src=\"images/galleries/big-12.jpg\" alt=\"\" />\n					            <figcaption class=\"img-caption\">\n					              Caption\n					            </figcaption>\n					          </figure>\n					          </a>\n					      </li>\n					    </ul>\n					    <div class=\"controls\">\n					      <span class=\"control icon-arrow-left\" data-direction=\"previous\"></span> \n					      <span class=\"control icon-arrow-right\" data-direction=\"next\"></span> \n					      <span class=\"grid icon-grid\"></span>\n					      <span class=\"fs-toggle icon-fullscreen\"></span>\n					    </div>\n					    \n					  </div>",
+			"gallery",
+			"iv id=\"gallery-container\">\n\n						    <ul class=\"items--small\">\n						      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-1.png\" alt=\"\" /></a></li>\n						      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-2.png\" alt=\"\" /></a></li>\n						      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-3.png\" alt=\"\" /></a></li>\n						      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-4.png\" alt=\"\" /></a></li>\n						      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-5.png\" alt=\"\" /></a></li>\n						      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-6.png\" alt=\"\" /></a></li>\n						      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-7.png\" alt=\"\" /></a></li>\n						      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-8.png\" alt=\"\" /></a></li>\n						      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-9.png\" alt=\"\" /></a></li>\n						      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-10.png\" alt=\"\" /></a></li>\n						      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-11.png\" alt=\"\" /></a></li>\n						      <li class=\"item\"><a href=\"#\"><img src=\"images/galleries/small-12.png\" alt=\"\" /></a></li>\n						    </ul>\n						    <article>\n						    	<header>\n						    		<h1>Galeria Recents</h1>\n						    		<h2>Mis vivencias</h2>\n						    		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n						    		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n						    		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n						    		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n						    		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n						    		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n						    		</p>\n						    	</header>\n						    </article>\n						    <ul class=\"items--big\">\n						      <li class=\"item--big\">\n						        <a href=\"#\">\n						          <figure>\n						            <img src=\"images/galleries/big-1.jpg\" alt=\"\" />\n						            <figcaption class=\"img-caption\">\n						              Caption\n						            </figcaption>\n						          </figure>\n						          </a>\n						      </li>\n						      <li class=\"item--big\">\n						        <a href=\"#\">\n						          <figure>\n						            <img src=\"images/galleries/big-2.jpg\" alt=\"\" />\n						            <figcaption class=\"img-caption\">\n						              Caption\n						            </figcaption>\n						          </figure>\n						          </a>\n						      </li>\n						      <li class=\"item--big\">\n						        <a href=\"#\">\n						          <figure>\n						            <img src=\"images/galleries/big-3.jpg\" alt=\"\" />\n						            <figcaption class=\"img-caption\">\n						              Caption\n						            </figcaption>\n						          </figure>\n						          </a>\n						      </li>\n						      <li class=\"item--big\">\n						        <a href=\"#\">\n						          <figure>\n						            <img src=\"images/galleries/big-4.jpg\" alt=\"\" />\n						            <figcaption class=\"img-caption\">\n						              Caption\n						            </figcaption>\n						          </figure>\n						          </a>\n						      </li>\n						      <li class=\"item--big\">\n						        <a href=\"#\">\n						          <figure>\n						            <img src=\"images/galleries/big-5.jpg\" alt=\"\" />\n						            <figcaption class=\"img-caption\">\n						              Caption\n						            </figcaption>\n						          </figure>\n						          </a>\n						      </li>\n						      <li class=\"item--big\">\n						        <a href=\"#\">\n						          <figure>\n						            <img src=\"images/galleries/big-6.jpg\" alt=\"\" />\n						            <figcaption class=\"img-caption\">\n						              Caption\n						            </figcaption>\n						          </figure>\n						          </a>\n						      </li>\n						      <li class=\"item--big\">\n						        <a href=\"#\">\n						          <figure>\n						            <img src=\"images/galleries/big-7.jpg\" alt=\"\" />\n						            <figcaption class=\"img-caption\">\n						              Caption\n						            </figcaption>\n						          </figure>\n						          </a>\n						      </li>\n						      <li class=\"item--big\">\n						        <a href=\"#\">\n						          <figure>\n						            <img src=\"images/galleries/big-8.jpg\" alt=\"\" />\n						            <figcaption class=\"img-caption\">\n						              Caption\n						            </figcaption>\n						          </figure>\n						          </a>\n						      </li>\n						      <li class=\"item--big\">\n						        <a href=\"#\">\n						          <figure>\n						            <img src=\"images/galleries/big-9.jpg\" alt=\"\" />\n						            <figcaption class=\"img-caption\">\n						              Caption\n						            </figcaption>\n						          </figure>\n						          </a>\n						      </li>\n						      <li class=\"item--big\">\n						        <a href=\"#\">\n						          <figure>\n						            <img src=\"images/galleries/big-10.jpg\" alt=\"\" />\n						            <figcaption class=\"img-caption\">\n						              Caption\n						            </figcaption>\n						          </figure>\n						          </a>\n						      </li>\n						      <li class=\"item--big\">\n						        <a href=\"#\">\n						          <figure>\n						            <img src=\"images/galleries/big-11.jpg\" alt=\"\" />\n						            <figcaption class=\"img-caption\">\n						              Caption\n						            </figcaption>\n						          </figure>\n						          </a>\n						      </li>\n						      <li class=\"item--big\">\n						        <a href=\"#\">\n						          <figure>\n						            <img src=\"images/galleries/big-12.jpg\" alt=\"\" />\n						            <figcaption class=\"img-caption\">\n						              Caption\n						            </figcaption>\n						          </figure>\n						          </a>\n						      </li>\n						    </ul>\n						    <div class=\"controls\">\n						      <span class=\"control icon-arrow-left\" data-direction=\"previous\"></span> \n						      <span class=\"control icon-arrow-right\" data-direction=\"next\"></span> \n						      <span class=\"grid icon-grid\"></span>\n						      <span class=\"fs-toggle icon-fullscreen\"></span>\n						    </div>\n						    \n						  </div>",
+			".controls .icon-fullscreen-exit",
+			"images/",
+			"icon",
+			"images/",
+			".md-show",
+			"md-overlay",
+			".md-show ~ .md-overlay",
+			"morph-button",
+			"g.className=g.className",
+			"function(a,b,c){return b?D(a,b,c):D(a,\"pfx\")}",
+			"prefixed",
+			"trigger-overlay",
+			"overlay-hugeinc",
+			"body",
+			"menu",
+			"menu-trigger",
+			"fiestas",
+			"á",
+			"px",
+			"noticias",
+			"notic",
+			"fiesta_infantil",
+			"new_address",
+			".red",
+			"red",
+			"addnew",
+			"new_address",
+			"agregar_direc",
+			"red",
+			"movil_reserve",
+			"fiestas",
+			"tabs",
+			".pedido_para",
+			"pedido_para",
+			"foot",
+			"cart_detail",
+			"mostrarUsuario",
+			"usuario",
+			"ingresar",
+			"grid_usuario",
+			"regTar",
+			"grid_usuario",
+			"reservar",
+			"section[role=\"contactanos\"]",
+			"section[role=\"encuentranos\"]",
+			"</div><!-- /pusher -->\n</div>",
+			"<!-- /mp-menu -->\n\n\n<section class=\"topage\">",
+			"</footer><!-- end footer section -->\n	</div><!-- /pusher -->\n		<div class=\"bggradbt\"></div>",
+			"<footer>\n		<div class=\"bggradbt\"></div>",
+			"<footer>\n		<section class=\"container\">",
+			"c<footer>\n	<div class=\"bggradbt\"></div>\n	<section class=\"container\">",
+			"aside[role=\"socialmedia\"]",
+			"footer",
+			"section[role=\"contenido\"]",
+			"<input type=\"radio\" name=\"address\" value=\"casa\"/><label>Carrera 13b # 163 - 5O torre 8 apto 301</label><br>",
+			"<header role=\"top\">\n	<section class=\"container top\">\n		<figure role=\"logo\"><a href=\"index.html\"><img src=\"images/presto_logo.png\"/></a></figure>\n		<section class=\"signup\">\n			<a class=\"pedido fancybox\" href=\"#login\">Iniciar sesi&oacute;n</a> /\n			<a href=\"registro.html\">Reg&iacute;strate</a>\n		</section>\n	</section>\n</header>\n<nav role=\"first_menu\">\n	<section class=\"container\">\n		<a href=\"#\" id=\"trigger\" class=\"icon-menu2\"></a>\n		<ul id=\"menuprin\">\n			<li><a href=\"conocenos_historia.html\">Con&oacute;cenos</a></li>\n			<li><a href=\"lista_categorias.html\">Disfr&uacute;nos</a>\n				<ul class=\"disf\">\n					<li><a href=\"lista_categorias.html\">men&uacute;</a></li>\n					<li><a href=\"nuevos_productos.html\">nuevos productos</a></li>\n				</ul>\n			</li>\n			<li><a href=\"promos_clientefiel.html\">Promociones</a>\n				<ul class=\"promos\">\n					<li><a href=\"promos_clientefiel.html\">CLIENTE FIEL</a></li>\n					<li><a href=\"promos_combos.html\">COMBOS Y PROMOS</a></li>\n					<li><a href=\"promo_actividades.html\">actividades</a></li>\n				</ul>\n			</li>\n			<li><a href=\"encuentranos.html\">Encu&eacute;ntranos</a>\n				<ul class=\"encuentranos\">\n					<li><form action=\"encuentranos.html\">selecciona tu ciudad<select name=\"ciudad\" id=\"ciudad\">\n						<option value=\"1\">Armenia</option>\n						<option value=\"2\">Barranquilla</option>\n						<option value=\"3\">Bogot&aacute;</option>\n						<option value=\"4\">Bucaramanga</option>\n						<option value=\"5\">Cali</option>\n						<option value=\"6\">Cartagena</option>\n						<option value=\"7\">Chia</option>\n						<option value=\"8\">C&uacute;cuta</option>\n						<option value=\"9\">Ibagu&eacute;</option>\n						<option value=\"10\">Magangu&eacute;</option>\n						<option value=\"11\">Manizales</option>\n						<option value=\"12\">Medell&iacute;n</option>\n						<option value=\"13\">Monteria</option>\n						<option value=\"14\">Neiva</option>\n						<option value=\"15\">Palmira</option>\n						<option value=\"16\">Pasto</option>\n						<option value=\"17\">Pereira</option>\n						<option value=\"18\">Popay&aacute;n</option>\n						<option value=\"19\">San Andr&eacute;s</option>\n						<option value=\"20\">San Gil</option>\n						<option value=\"21\">Santa Marta</option>\n						<option value=\"22\">Valledupar</option>\n						<option value=\"23\">Villavicencio</option>\n						<option value=\"24\">Yopal</option>\n					</select><input type=\"submit\" value=\"Ok\">\n					</form>\n				</li>\n				</ul>\n			</li>\n			<li><a href=\"#\">Fiestas</a>\n				<ul class=\"fiestas\">\n					<li><a href=\"fiestas_infantiles.html\">Infantiles</a></li>\n					<li><a href=\"fiestas_otras.html\">Otras</a></li>\n				</ul>\n			</li>\n			<li><a href=\"insti_ventajas.html\">Institucional</a>\n				<ul>\n					<li><a href=\"insti_ventajas.html\">ventajas</a></li>\n					<li><a href=\"insti_bonos.html\">bonos</a></li>\n					<li><a href=\"insti_eventos.html\">eventos</a></li>\n				</ul>\n			</li>\n			<li><a href=\"contactanos.html\">Cont&aacute;ctanos</a></li>\n		</ul>\n	</section>\n</nav>",
+			"<!-- mp-menu -->\n	<nav id=\"mp-menu\" class=\"mp-menu\">\n		<div class=\"mp-level\">\n			<h2 class=\"icon icon-world\">Men&uacute;</h2>\n			<ul>\n				<li class=\"icon icon-arrow-left\">\n					<a class=\"icon icon-display\" href=\"#\">Con&oacute;cenos</a>\n					<div class=\"mp-level\">\n						<h2 class=\"icon icon-display\">Con&oacute;cenos</h2>\n						<ul>\n							<li class=\"icon icon-arrow-left\">\n								<a class=\"icon icon-phone\" href=\"conocenos_historia.html\">Historia</a>\n								<a class=\"icon icon-phone\" href=\"conocenos_filosofia.html\">Filosof&iacute;a</a>\n								<a class=\"icon icon-phone\" href=\"conocenos_calidad.html\">Calidad</a>\n								<a class=\"icon icon-phone\" href=\"conocenos_sostenibilidad.html\">Sostenibilidad</a>\n								<a class=\"icon icon-phone\" href=\"conocenos_noticias.html\">Noticias</a>\n							</li>\n							\n						</ul>\n					</div>\n				</li>\n				<li class=\"icon icon-arrow-left\">\n					<a class=\"icon icon-news\" href=\"#\">Disfr&uacute;nos</a>\n					<div class=\"mp-level\">\n						<h2 class=\"icon icon-news\">Disfr&uacute;nos</h2>\n						<ul>\n							<li><a href=\"lista_categorias.html\">men&uacute;</a></li>\n							<li><a href=\"nuevos_productos.html\">nuevos productos</a></li>\n						</ul>\n					</div>\n				</li>\n				<li class=\"icon icon-arrow-left\">\n					<a class=\"icon icon-shop\" href=\"#\">Promociones</a>\n					<div class=\"mp-level\">\n						<h2 class=\"icon icon-shop\">Promociones</h2>\n						<ul>\n							<li><a href=\"promos_clientefiel.html\">CLIENTE FIEL</a></li>\n							<li><a href=\"promos_combos.html\">COMBOS Y PROMOS</a></li>\n							<li><a href=\"promo_actividades.html\">actividades</a></li>\n						</ul>\n					</div>\n				</li>\n				<li><a href=\"encuentranos.html\">Encu&eacute;ntranos</a></li>\n				<li class=\"icon icon-arrow-left\">\n					<a class=\"icon icon-shop\" href=\"#\">Institucional</a>\n					<div class=\"mp-level\">\n						<h2 class=\"icon icon-shop\">Institucional</h2>\n						<ul>\n							<li><a href=\"insti_ventajas.html\">ventajas</a></li>\n							<li><a href=\"insti_bonos.html\">bonos</a></li>\n							<li><a href=\"insti_eventos.html\">eventos</a></li>\n						</ul>\n					</div>\n				</li>\n				<li><a href=\"contactanos.html\">Cont&aacute;ctanos</a></li>\n				<li><a href=\"trabaje_nosotros.html\">Trabaja con nosotros</a></li>\n				<li><a href=\"ley_proteccion_datos.html\">Ley protecci&oacute;n datos</a></li>\n				<li><a href=\"normas_comunidad.html\">Normas de la comunidad</a></li>\n				<li><a href=\"informacion_legal.html\">informaci&oacute;n legal</a></li>\n			</ul>\n		</div>\n	</nav>\n	<!-- /mp-menu -->",
+			"pages",
+			"<ul id=\"menuprin\">",
+			"%;\n",
+			"<ul>\n				<li><a href=\"conocenos_historia.html\">Con&oacute;cenos</a></li>\n				<li><a href=\"#\">Disfr&uacute;nos</a>\n					<ul class=\"disf\">\n						<li><a href=\"lista_categorias.html\">men&uacute;</a></li>\n						<li><a href=\"nuevos_productos.html\">nuevos productos</a></li>\n					</ul>\n				</li>\n				<li><a href=\"#\">Promociones</a>\n					<ul class=\"promos\">\n						<li><a href=\"promos_clientefiel.html\">CLIENTE FIEL</a></li>\n						<li><a href=\"promos_combos.html\">COMBOS Y PROMOS</a></li>\n						<li><a href=\"promo_actividades.html\">actividades</a></li>\n					</ul>\n				</li>\n				<li><a href=\"#\">Encu&eacute;ntranos</a>\n					<ul class=\"encuentranos\">\n						<li><form action=\"encuentranos.html\">selecciona tu ciudad<select name=\"ciudad\" id=\"ciudad\">\n							<option value=\"1\">Armenia</option>\n							<option value=\"2\">Barranquilla</option>\n							<option value=\"3\">Bogot&aacute;</option>\n							<option value=\"4\">Bucaramanga</option>\n							<option value=\"5\">Cali</option>\n							<option value=\"6\">Cartagena</option>\n							<option value=\"7\">Chia</option>\n							<option value=\"8\">C&uacute;cuta</option>\n							<option value=\"9\">Ibagu&eacute;</option>\n							<option value=\"10\">Magangu&eacute;</option>\n							<option value=\"11\">Manizales</option>\n							<option value=\"12\">Medell&iacute;n</option>\n							<option value=\"13\">Monteria</option>\n							<option value=\"14\">Neiva</option>\n							<option value=\"15\">Palmira</option>\n							<option value=\"16\">Pasto</option>\n							<option value=\"17\">Pereira</option>\n							<option value=\"18\">Popay&aacute;n</option>\n							<option value=\"19\">San Andr&eacute;s</option>\n							<option value=\"20\">San Gil</option>\n							<option value=\"21\">Santa Marta</option>\n							<option value=\"22\">Valledupar</option>\n							<option value=\"23\">Villavicencio</option>\n							<option value=\"24\">Yopal</option>\n						</select><input type=\"submit\" value=\"Ok\"></li>\n						</form>\n					</ul>\n				</li>\n				<li><a href=\"#\">Fiestas</a>\n					<ul>\n						<li><a href=\"fiestas_infantiles.html\">Infantiles</a></li>\n						<li><a href=\"fiestas_otras.html\">Otras</a></li>\n					</ul>\n				</li>\n				<li><a href=\"#\">Institucional</a>\n					<ul>\n						<li><a href=\"insti_ventajas.html\">ventajas</a></li>\n						<li><a href=\"insti_bonos.html\">bonos</a></li>\n						<li><a href=\"insti_eventos.html\">eventos</a></li>\n					</ul>\n				</li>\n				<li><a href=\"contactanos.html\">Cont&aacute;ctanos</a></li>\n			</ul>",
+			".producto",
+			".selec_producto .categories",
+			".categories",
+			".colum_menu",
+			" id=\"secciones\"",
+			"			\n",
+			"fancybox-skin",
+			"ó",
+			"Á",
+			"é",
+			";\n",
+			"display:inline-block;\n	vertical-align: top;",
+			"ñ",
+			"á",
+			"é",
+			"í",
+			"ó",
+			"ú",
+			"ñ",
+			"ó",
+			"í",
+			"é",
+			"á",
+			"ñ",
+			"ú",
+			"ó",
+			"í",
+			"é",
+			"á"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"images/galleries/",
+			"&aacute;",
+			"</div><!-- /scroller-inner -->\n          </div><!-- /scroller -->\n     </div><!-- /pusher -->\n</div>",
+			"<!-- /mp-menu -->\n     <div class=\"scroller\"><!-- this is for emulating position fixed of the nav -->\n          <div class=\"scroller-inner\">\n               <!-- Top Navigation -->\n<section class=\"topage\">",
+			"</footer>	<!-- end footer section -->\n				</div><!-- /scroller-inner -->\n			</div><!-- /scroller -->\n		</div><!-- /pusher -->",
+			"<div class=\"bggradbt\"></div>\n	<footer>\n",
+			"<footer>\n	<div class=\"bggradbt\"></div>\n	<section class=\"container\">",
+			"<footer>\n	<div class=\"bggradbt\"></div>\n	<section class=\"container\">\n",
+			"<input type=\"radio\" name=\"address\" value=\"casa\"/><label>Carrera 13b # 163 - 5O torre 8 apto 301</label><br/>",
+			"<section class=\"topage\">\n<header role=\"top\">\n	<section class=\"container top\">\n		<figure role=\"logo\"><a href=\"index.html\"><img src=\"images/presto_logo.png\"/></a></figure>\n		<section class=\"signup\">\n			<a class=\"pedido fancybox\" href=\"#login\">Iniciar sesi&oacute;n</a> /\n			<a href=\"registro.html\">Reg&iacute;strate</a>\n		</section>\n	</section>\n</header>\n<nav role=\"first_menu\">\n	<section class=\"container\">\n		<a href=\"#\" id=\"trigger\" class=\"icon-menu2\"></a>\n		<ul id=\"menuprin\">\n			<li><a href=\"conocenos_historia.html\">Con&oacute;cenos</a></li>\n			<li><a href=\"lista_categorias.html\">Disfr&uacute;nos</a>\n				<ul class=\"disf\">\n					<li><a href=\"lista_categorias.html\">men&uacute;</a></li>\n					<li><a href=\"nuevos_productos.html\">nuevos productos</a></li>\n				</ul>\n			</li>\n			<li><a href=\"promos_clientefiel.html\">Promociones</a>\n				<ul class=\"promos\">\n					<li><a href=\"promos_clientefiel.html\">CLIENTE FIEL</a></li>\n					<li><a href=\"promos_combos.html\">COMBOS Y PROMOS</a></li>\n					<li><a href=\"promo_actividades.html\">actividades</a></li>\n				</ul>\n			</li>\n			<li><a href=\"encuentranos.html\">Encu&eacute;ntranos</a>\n				<ul class=\"encuentranos\">\n					<li><form action=\"encuentranos.html\">selecciona tu ciudad<select name=\"ciudad\" id=\"ciudad\">\n						<option value=\"1\">Armenia</option>\n						<option value=\"2\">Barranquilla</option>\n						<option value=\"3\">Bogot&aacute;</option>\n						<option value=\"4\">Bucaramanga</option>\n						<option value=\"5\">Cali</option>\n						<option value=\"6\">Cartagena</option>\n						<option value=\"7\">Chia</option>\n						<option value=\"8\">C&uacute;cuta</option>\n						<option value=\"9\">Ibagu&eacute;</option>\n						<option value=\"10\">Magangu&eacute;</option>\n						<option value=\"11\">Manizales</option>\n						<option value=\"12\">Medell&iacute;n</option>\n						<option value=\"13\">Monteria</option>\n						<option value=\"14\">Neiva</option>\n						<option value=\"15\">Palmira</option>\n						<option value=\"16\">Pasto</option>\n						<option value=\"17\">Pereira</option>\n						<option value=\"18\">Popay&aacute;n</option>\n						<option value=\"19\">San Andr&eacute;s</option>\n						<option value=\"20\">San Gil</option>\n						<option value=\"21\">Santa Marta</option>\n						<option value=\"22\">Valledupar</option>\n						<option value=\"23\">Villavicencio</option>\n						<option value=\"24\">Yopal</option>\n					</select><input type=\"submit\" value=\"Ok\">\n					</form>\n				</li>\n				</ul>\n			</li>\n			<li><a href=\"#\">Fiestas</a>\n				<ul class=\"fiestas\">\n					<li><a href=\"fiestas_infantiles.html\">Infantiles</a></li>\n					<li><a href=\"fiestas_otras.html\">Otras</a></li>\n				</ul>\n			</li>\n			<li><a href=\"insti_ventajas.html\">Institucional</a>\n				<ul>\n					<li><a href=\"insti_ventajas.html\">ventajas</a></li>\n					<li><a href=\"insti_bonos.html\">bonos</a></li>\n					<li><a href=\"insti_eventos.html\">eventos</a></li>\n				</ul>\n			</li>\n			<li><a href=\"contactanos.html\">Cont&aacute;ctanos</a></li>\n		</ul>\n	</section>\n</nav>\n</section>",
+			"<!-- mp-menu -->\n	<nav id=\"mp-menu\" class=\"mp-menu\">\n		<div class=\"mp-level\">\n			<h2 class=\"icon icon-world\">Men&uacute;</h2>\n			<ul>\n				<li class=\"icon icon-arrow-left\">\n					<a class=\"icon icon-display\" href=\"#\">Con&oacute;cenos</a>\n					<div class=\"mp-level\">\n						<h2 class=\"icon icon-display\">Con&oacute;cenos</h2>\n						<ul>\n							<li class=\"icon icon-arrow-left\">\n								<a class=\"icon icon-phone\" href=\"conocenos_historia.html\">Historia</a>\n								<a class=\"icon icon-phone\" href=\"conocenos_filosofia.html\">Filosof&iacute;a</a>\n								<a class=\"icon icon-phone\" href=\"conocenos_calidad.html\">Calidad</a>\n								<a class=\"icon icon-phone\" href=\"conocenos_sostenibilidad.html\">Sostenibilidad</a>\n								<a class=\"icon icon-phone\" href=\"conocenos_noticias.html\">Noticias</a>\n							</li>\n							\n						</ul>\n					</div>\n				</li>\n				<li class=\"icon icon-arrow-left\">\n					<a class=\"icon icon-news\" href=\"#\">Disfr&uacute;nos</a>\n					<div class=\"mp-level\">\n						<h2 class=\"icon icon-news\">Disfr&uacute;nos</h2>\n						<ul>\n							<li><a href=\"lista_categorias.html\">men&uacute;</a></li>\n							<li><a href=\"nuevos_productos.html\">nuevos productos</a></li>\n						</ul>\n					</div>\n				</li>\n				<li class=\"icon icon-arrow-left\">\n					<a class=\"icon icon-shop\" href=\"#\">Promociones</a>\n					<div class=\"mp-level\">\n						<h2 class=\"icon icon-shop\">Promociones</h2>\n						<ul>\n							<li><a href=\"promos_clientefiel.html\">CLIENTE FIEL</a></li>\n							<li><a href=\"promos_combos.html\">COMBOS Y PROMOS</a></li>\n							<li><a href=\"promo_actividades.html\">actividades</a></li>\n						</ul>\n					</div>\n				</li>\n				<li><a href=\"encuentranos.html\">Encu&eacute;ntranos</a></li>\n				<li class=\"icon icon-arrow-left\">\n					<a class=\"icon icon-shop\" href=\"#\">Fiestas</a>\n					<div class=\"mp-level\">\n						<h2 class=\"icon icon-shop\">Fiestas</h2>\n						<ul>\n							<li><a href=\"fiestas_infantiles.html\">Infantiles</a></li>\n					<li><a href=\"fiestas_otras.html\">Otras</a></li>\n						</ul>\n					</div>\n				</li>\n				<li class=\"icon icon-arrow-left\">\n					<a class=\"icon icon-shop\" href=\"#\">Institucional</a>\n					<div class=\"mp-level\">\n						<h2 class=\"icon icon-shop\">Institucional</h2>\n						<ul>\n							<li><a href=\"insti_ventajas.html\">ventajas</a></li>\n							<li><a href=\"insti_bonos.html\">bonos</a></li>\n							<li><a href=\"insti_eventos.html\">eventos</a></li>\n						</ul>\n					</div>\n				</li>\n				<li><a href=\"contactanos.html\">Cont&aacute;ctanos</a></li>\n				<li><a href=\"trabaje_nosotros.html\">Trabaja con nosotros</a></li>\n				<li><a href=\"ley_proteccion_datos.html\">Ley protecci&oacute;n datos</a></li>\n				<li><a href=\"normas_comunidad.html\">Normas de la comunidad</a></li>\n				<li><a href=\"informacion_legal.html\">informaci&oacute;n legal</a></li>\n			</ul>\n		</div>\n	</nav>\n	<!-- /mp-menu -->",
+			"<a href=\"#\" class=\"icon-menu2 menuico\"></a>\n			<ul id=\"menuprin\">",
+			"<ul id=\"menuprin\">\n				<li><a href=\"conocenos_historia.html\">Con&oacute;cenos</a></li>\n				<li><a href=\"lista_categorias.html\">Disfr&uacute;nos</a>\n					<ul class=\"disf\">\n						<li><a href=\"lista_categorias.html\">men&uacute;</a></li>\n						<li><a href=\"nuevos_productos.html\">nuevos productos</a></li>\n					</ul>\n				</li>\n				<li><a href=\"promos_clientefiel.html\">Promociones</a>\n					<ul class=\"promos\">\n						<li><a href=\"promos_clientefiel.html\">CLIENTE FIEL</a></li>\n						<li><a href=\"promos_combos.html\">COMBOS Y PROMOS</a></li>\n						<li><a href=\"promo_actividades.html\">actividades</a></li>\n					</ul>\n				</li>\n				<li><a href=\"encuentranos.html\">Encu&eacute;ntranos</a>\n					<ul class=\"encuentranos\">\n						<li><form action=\"encuentranos.html\">selecciona tu ciudad<select name=\"ciudad\" id=\"ciudad\">\n							<option value=\"1\">Armenia</option>\n							<option value=\"2\">Barranquilla</option>\n							<option value=\"3\">Bogot&aacute;</option>\n							<option value=\"4\">Bucaramanga</option>\n							<option value=\"5\">Cali</option>\n							<option value=\"6\">Cartagena</option>\n							<option value=\"7\">Chia</option>\n							<option value=\"8\">C&uacute;cuta</option>\n							<option value=\"9\">Ibagu&eacute;</option>\n							<option value=\"10\">Magangu&eacute;</option>\n							<option value=\"11\">Manizales</option>\n							<option value=\"12\">Medell&iacute;n</option>\n							<option value=\"13\">Monteria</option>\n							<option value=\"14\">Neiva</option>\n							<option value=\"15\">Palmira</option>\n							<option value=\"16\">Pasto</option>\n							<option value=\"17\">Pereira</option>\n							<option value=\"18\">Popay&aacute;n</option>\n							<option value=\"19\">San Andr&eacute;s</option>\n							<option value=\"20\">San Gil</option>\n							<option value=\"21\">Santa Marta</option>\n							<option value=\"22\">Valledupar</option>\n							<option value=\"23\">Villavicencio</option>\n							<option value=\"24\">Yopal</option>\n						</select><input type=\"submit\" value=\"Ok\"></li>\n						</form>\n					</ul>\n				</li>\n				<li><a href=\"#\">Fiestas</a>\n					<ul class=\"fiestas\">\n						<li><a href=\"fiestas_infantiles.html\">Infantiles</a></li>\n						<li><a href=\"fiestas_otras.html\">Otras</a></li>\n					</ul>\n				</li>\n				<li><a href=\"insti_ventajas.html\">Institucional</a>\n					<ul>\n						<li><a href=\"insti_ventajas.html\">ventajas</a></li>\n						<li><a href=\"insti_bonos.html\">bonos</a></li>\n						<li><a href=\"insti_eventos.html\">eventos</a></li>\n					</ul>\n				</li>\n				<li><a href=\"contactanos.html\">Cont&aacute;ctanos</a></li>\n			</ul>",
+			"&oacute;",
+			"&Aacute;",
+			"&eacute;",
+			"&ntilde;",
+			"&aacute;",
+			"&eacute;",
+			"&iacute;",
+			"&oacute;",
+			"&uacute;",
+			"&ntilde;",
+			"&oacute;",
+			"&iacute;",
+			"&eacute;",
+			"&aacute;",
+			"&ntilde;",
+			"&uacute;",
+			"&oacute;",
+			"&iacute;",
+			"&eacute;",
+			"&aacute;",
+			"<nav role=\"second_menu\">\n			<ul>\n				<li><a href=\"trabaje_nosotros.html\">Trabaja con nosotros</a></li>\n				<li><a href=\"ley_proteccion_datos.html\">Ley protecci&oacute;n datos</a></li>\n				<li><a href=\"normas_comunidad.html\">Normas de la comunidad</a></li>\n				<li><a href=\"informacion_legal.html\">informaci&oacute;n legal</a></li>\n				<li><a href=\"sitemap.html\">Mapa del sitio</a></li>\n			</ul>\n		</nav>",
+			"&uacute;",
+			"&oacute;",
+			"&iacute;",
+			"&eacute;",
+			"&aacute;",
+			"&ntilde;",
+			"&uacute;",
+			"&oacute;",
+			"&iacute;",
+			"&eacute;",
+			"&aacute;",
+			"&uacute;",
+			"&oacute;",
+			"&iacute;",
+			"&eacute;",
+			"&aacute;",
+			"&ntilde;",
+			"&uacute;",
+			"&oacute;",
+			"&iacute;",
+			"&eacute;",
+			"&aacute;",
+			"&#191;",
+			"&uacute;",
+			"&oacute;",
+			"&iacute;",
+			"&eacute;",
+			"&aacute;",
+			"&ntilde;",
+			"&uacute;",
+			"&oacute;",
+			"&iacute;",
+			"&eacute;",
+			"&aacute;",
+			"&ntilde;",
+			"&uacute;",
+			"&oacute;",
+			"&iacute;",
+			"&aacute;",
+			"&eacute;",
+			"<a href=\"conocenos_historia.html\">Con&oacute;cenos</a>",
+			"pedido-presto.css",
+			"&oacute;",
+			"&ntilde;",
+			"&iacute;",
+			"&aacute;",
+			"font-family: 'Roboto Condensed', sans-serif;",
+			"font-family: bebas-neue, sans-serif;",
+			"&Oacute;",
+			"&oacute;",
+			"&ntilde;",
+			"&aacute;",
+			"&oacute;",
+			"&eacute;",
+			"ivr_bimbo_ene",
+			"ivr_bimbo_dic",
+			"unauparavos",
+			"&ntilde;",
+			"&uacute;",
+			"&eacute;",
+			"&oacute;",
+			"&aacute;",
+			"&iacute;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 11265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7979,
+								7979
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2724.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 5165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5163,
+								5163
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4698.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/icons.css",
+					"settings":
+					{
+						"buffer_size": 2105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								767
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 330.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/PC/Documents/clientes_hachewd/smartclub/smartclub.sublime-project"
+			]
+		],
+		"width": 878.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true
+}

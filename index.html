@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+		<meta charset="UTF-8" />
+        <title>Pasos para configurar tu Smartclub</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <meta name="description" content="Fullscreen Slit Slider with CSS3 and jQuery" />
+        <meta name="keywords" content="slit slider, plugin, css3, transitions, jquery, fullscreen, autoplay" />
+        <meta name="author" content="Codrops" />
+        <link rel="shortcut icon" href="../favicon.ico"> 
+		<link rel="stylesheet" type="text/css" href="css/demo.css" />
+        <link rel="stylesheet" type="text/css" href="css/style.css" />
+        <link rel="stylesheet" type="text/css" href="css/custom.css" />
+		<link rel="stylesheet" type="text/css" href="css/icons.css">
+        <link href='http://fonts.googleapis.com/css?family=Questrial|Didact+Gothic|Roboto+Condensed:400,700,300' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="css/print.css" media="print">
+        <script type="text/javascript" src="js/jquery.min.js"></script>
+
+		<script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
+		<noscript>
+			<link rel="stylesheet" type="text/css" href="css/styleNoJS.css" />
+		</noscript>
+		<script type="text/javascript" src="js/jquery.leanModal.min.js"></script>
+		<script type="text/javascript">
+			$(function() {
+    			$('a[rel*=leanModal]').leanModal({ top : 200, closeButton: ".modal_close" });		
+			});
+		
+		</script>
+    </head>
+    <body>
+        <div class="container demo-1">
+            <div id="slider" class="sl-slider-wrapper">
+				<div class="sl-slider">
+					<div class="sl-slide bg-1" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+						<div class="sl-slide-inner">
+							<div class="responsivepage">
+								<div class="logo"><img src="images/logo.png"></div>
+								<h1>Pasos para Configurar tu smartclub</h1>
+								<div class="pasos hred"><div class="paso red">1.</div>Datos <strong>personales</strong></div>
+								<section class="fields paso1">
+									<fieldset>
+										<label>Nombre:</label><INPUT type="text" placeholder="Nombre Completo"><br/>
+										<label>Apellidos:</label><INPUT type="text" placeholder="Apellidos"><br/>
+										<label>C&eacute;dula &oacute; ID:</label><INPUT type="text" placeholder="solo # sin espacios"><br/>
+										<label>Tel&eacute;fono:</label><INPUT type="text" placeholder="8 a 10 digitos"><br/>
+										<label>E-mail:</label><INPUT type="email" placeholder="Su correo electr&oacute;nico" >
+									</fieldset>
+									<div class="subfieldset"></div>
+									<fieldset>
+										<label>Usuario:</label><INPUT type="email" placeholder="su email"><br/>
+										<label>Password:</label><INPUT type="password" placeholder="min 8 caracteres"><br/>	
+									</fieldset>
+									
+								</section>
+								<button class="next red icon-arrow-right"></botton>
+							</div>
+						</div>
+					</div>
+					<div class="sl-slide bg-1" data-orientation="vertical" data-slice1-rotation="10" data-slice2-rotation="-15" data-slice1-scale="1.5" data-slice2-scale="1.5">
+						<div class="sl-slide-inner">
+							<div class="responsivepage">
+								<div class="logo"><img src="images/logo.png"></div>
+								<div class="pasos hgreen"><div class="paso lemon">2.</div>Datos del <strong>comercio</strong></div>
+								<section class="fields paso2">
+									<fieldset class="fieldblockleft borderrigth">
+										<label>Nombre:</label><INPUT type="text" placeholder="Nombre comercio"><br/>
+										<label>Categor&iacute;a:</label>
+										<select id="categorias">
+											<option>Restaurantes</option>
+											<option>Tiendas</option>
+										</select><br/>
+										<label>C&eacute;dula Jur&iacute;dica:</label><INPUT type="text" placeholder="solo # sin espacios"><br/>
+										<label>Nombre Jur&iacute;dico:</label><INPUT type="text" placeholder=""><br/>
+									</fieldset>
+									<fieldset class="fieldblockright">
+										<p>Seleccione su logotipo:</p>
+										<figure class="logoComercio"><div class="icon-leaf"></div></figure>
+										<input type="file" id="myFile">
+									</fieldset>
+									<div class="subfieldset"><h3>Datos de Ubicaci&oacute;n</h3></div>
+									<fieldset class="fieldblockleft">
+										<label>Pa&iacute;s:</label>
+										<select id="pais">
+											<option>Costa Rica</option>
+											<option>Nicaragua</option>
+											<option>Panam&aacute;</option>
+										</select><br/>
+										<label>Tel&eacute;fono local:</label><INPUT type="text" placeholder="8 a 10 digitos"><br/>
+										<label>Descripción:</label><textarea placeholder="Descripci&oacute;n Corta"></textarea><br/>
+									</fieldset>
+									<fieldset class="fieldblockright location">
+										<label>Latitud:</label><INPUT type="text" placeholder="Coordenadas latitud"><br/>
+										<label>Logitud:</label><INPUT type="text" placeholder="Coordenadas Logitud"><br/><br/>
+										<p>No las conoce: <a href="#mapa" class="geolocal" rel="leanModal"><strong class="icon-location"></strong>Busque Aqu&iacute;</a></p>
+									</fieldset>
+								</section>
+								<div class="actions">
+									<a rel="leanModal" class="add_local" href="#agregar_local"><p class="icon-plus"></p> Agregar local</a><br/>
+									<button class="next lemon icon-arrow-right"></botton></div>
+							</div>
+						</div>
+					</div>
+					
+					<div class="sl-slide bg-1" data-orientation="horizontal" data-slice1-rotation="3" data-slice2-rotation="3" data-slice1-scale="2" data-slice2-scale="1">
+						<div class="sl-slide-inner">
+							<div class="responsivepage">
+								<div class="logo"><img src="images/logo.png"></div>
+								<div class="pasos horange"><div class="paso orange">3.</div>Crear una <strong>promoci&oacute;n</strong></div>
+								<section class="fields paso2">
+									<fieldset class="fieldblockleft borderrigth">
+										<label>Promoci&oacute;n:</label><INPUT type="text" placeholder="Nombre de promo"><br/>
+										<label>Descripción:</label><textarea placeholder="Descripci&oacute;n Corta"></textarea><br/>
+										<label>Fecha de inicio:</label><INPUT type="date" placeholder="" class="date"><a href="#" class="icon-calendar dateicon"></a><br/>
+										<label>Fecha de fin:</label><INPUT type="date" placeholder="" class="date"><a href="#" class="icon-calendar dateicon"></a><br/>
+									</fieldset>
+									<fieldset class="fieldblockright">
+										<p>Seleccione la imagen de la promo:</p>
+										<figure class="logoComercio"><div class="icon-gift horange"></div></figure>
+										<input type="file" id="myFile">
+									</fieldset>
+									<div class="subfieldset"><h3>Punch para la promoci&oacute;n</h3></div>
+									<fieldset class="fieldblock">
+										<label>Total de punch:</label>
+										<input type="number" name="quantity" value="20"><br/>
+										<br/>
+										<p class="notaspie">El total de punch es la cantidad total del premio mayor.<p>
+									</fieldset>
+									<fieldset class="fieldblock gal_icons">
+										<p>Seleccione Icono del punch para su promoción de la </p><br/>
+										<a href="#iconos" class="galeriaiconos" rel="leanModal"><strong class="icon-star2"></strong>Galer&iacute;a de Iconos</a><br/><br/>
+										<p>o cargue un icono personalizado</p>
+										<input type="file" id="myFile">
+									</fieldset>
+								</section>
+								<div class="actions">
+									<button class="next orange icon-arrow-right"></botton></div>
+							</div>
+						</div>
+					</div>
+					
+					<div class="sl-slide bg-1" data-orientation="vertical" data-slice1-rotation="-5" data-slice2-rotation="25" data-slice1-scale="2" data-slice2-scale="1">
+						<div class="sl-slide-inner">
+							<div class="responsivepage">
+								<div class="logo"><img src="images/logo.png"></div>
+								<div class="pasos hbluesky"><div class="paso bluesky">4.</div>Crear <strong>premios</strong></div>
+								<section class="fields paso2">
+									<fieldset class="fieldblockleft borderrigth">
+										<label>Promoci&oacute;n:</label><INPUT type="text" placeholder="Nombre de promo"><br/>
+										<label>Descripción:</label><textarea placeholder="Descripci&oacute;n Corta"></textarea><br/>
+										<label>Fecha de inicio:</label><INPUT type="date" placeholder="" class="date"><a href="#" class="icon-calendar dateicon"></a><br/>
+										<label>Fecha de fin:</label><INPUT type="date" placeholder="" class="date"><a href="#" class="icon-calendar dateicon"></a><br/>
+										<label>Punch por premio:</label>
+										<input type="number" name="quantity" value="20"><br/>
+									</fieldset>
+									<fieldset class="fieldblockright">
+										<p>Seleccione la imagen para el premio:</p>
+										<figure class="logoComercio"><div class="icon-cup hbluesky"></div></figure>
+										<input type="file" id="myFile">
+									</fieldset>
+								</section>
+								<div class="actions">
+									<a rel="leanModal" class="add_local" href="#agregar_premio"><p class="icon-plus"></p> Agregar m&aacute;s premios</a><br/>
+									<button class="next bluesky icon-arrow-right"></botton></div>
+							</div>
+						</div>
+					</div>
+					
+					<div class="sl-slide bg-1" data-orientation="horizontal" data-slice1-rotation="-5" data-slice2-rotation="10" data-slice1-scale="2" data-slice2-scale="1">
+						<div class="sl-slide-inner">
+							<div class="responsivepage">
+								<div class="logo"><img src="images/logo.png"></div>
+								<div class="pasos hgray"><div class="paso gray">5.</div>Afiche para el <strong>Comercio</strong></div>
+								<section class="fields paso5">
+									<article class="descomercio">
+										<h3>Comercio S.A.</h3>
+										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod empor incididunt ut labore et dolore magna aliqua. Ut enim ad inim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p></article>
+									<figure class="logocomercio"><img src="images/logo_comercio.png"></figure><br/><br/></br>
+									<div class="subfieldset"><h3>Nuestras promociones</h3></div>
+								</section></br>
+								<section class="fields promos">
+									<article class="despromo">
+										<h4>2 x 1 en nuestros productos</h4>
+										<p class="despremio">Acumula 20 punch puedes canjear por una promoción 2 x 1 en nuestros productos</p>
+										<p class="rango">Fecha de inicio:<strong> 15 de agosto de 2014</strong></p>
+										<p class="rango"v>Fecha de finalizaci&oacute;n:<strong> 01 de diciembre de 2014</strong></p>
+									</article>
+									<figure class="qrcode"><img src="images/qr_demo.png"></figure>
+								</section>
+								
+								<div class="actions">
+									<a href="#" class="icon-printer" onclick="print()"></a>
+
+									<button class="next gray icon-arrow-right"></botton></div>
+								</div>
+						</div>
+					</div>
+				</div><!-- /sl-slider -->
+				
+				<nav id="nav-arrows" class="nav-arrows">
+					<span class="nav-arrow-prev">Previous</span>
+					<span class="nav-arrow-next">Next</span>
+				</nav>
+
+				<nav id="nav-dots" class="nav-dots">
+					<span class="nav-dot-current"></span>
+					<span></span>
+					<span></span>
+					<span></span>
+					<span></span>
+				</nav>
+
+			</div><!-- /slider-wrapper -->
+
+
+        </div>
+        <section id="agregar_local">
+        	<header class="modaltitle lemon"><h2>Agregar más locales</h2></header>
+		     <a class="modal_close icon-cross" href="#" ></a>
+		     <br/>
+		     <section class="fields">
+		     <fieldset>
+				<label>Pa&iacute;s:</label>
+				<select id="pais">
+					<option>Costa Rica</option>
+					<option>Nicaragua</option>
+					<option>Panam&aacute;</option>
+				</select><br/>
+				<label>Tel&eacute;fono local:</label><INPUT type="text" placeholder="8 a 10 digitos"><br/>
+				<label>descripción:</label><textarea placeholder="Descripci&oacute;n Corta"></textarea><br/>
+			</fieldset>
+			<fieldset class="location">
+				<label>Latitud:</label><INPUT type="text" placeholder="Coordenadas latitud"><br/>
+				<label>Logitud:</label><INPUT type="text" placeholder="Coordenadas Logitud"><br/><br/>
+				<p>No las conoce: <a href="#mapa" class="geolocal" rel="leanModal"><strong class="icon-location"></strong>Busque Aqu&iacute;</a></p>
+			</fieldset>
+			</section>
+			<br/>
+			<a rel="leanModal" class="add_local" href="#agregar_local"><p class="icon-plus"></p> Agregar local</a><br/>
+			<br/>
+		</section>
+		<section id="agregar_premio">
+        	<header class="modaltitle bluesky"><h2>Agregar más locales</h2></header>
+		     <a class="modal_close icon-cross" href="#" ></a>
+		     <br/>
+		     <section class="fields center">
+				<fieldset class=" borderrigth">
+					<label>Promoci&oacute;n:</label><INPUT type="text" placeholder="Nombre de promo"><br/>
+					<label>Descripción:</label><textarea placeholder="Descripci&oacute;n Corta"></textarea><br/>
+					<label>Fecha de inicio:</label><INPUT type="date" placeholder="" class="date"><a href="#" class="icon-calendar dateicon"></a><br/>
+					<label>Fecha de fin:</label><INPUT type="date" placeholder="" class="date"><a href="#" class="icon-calendar dateicon"></a><br/>
+					<label>Punch por premio:</label>
+					<input type="number" name="quantity" value="20"><br/>
+				</fieldset>
+				<fieldset class="">
+					<p>Seleccione la imagen para el premio:</p>
+					<figure class="logoComercio"><div class="icon-cup hbluesky"></div></figure>
+					<input type="file" id="myFile">
+				</fieldset>
+			</section>
+			<br/>
+			<a rel="leanModal" class="add_local" href="#agregar_local"><p class="icon-plus"></p> Agregar local</a><br/>
+			<br/>
+		</section>
+		 <section id="mapa">
+
+		   <a class="modal_close icon-cross" href="#" ></a>
+		  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4781.334010704091!2d-84.07435700000008!3d9.925038021947994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa0e36f2a1b7523%3A0x89a8541dd61b3f27!2sEstaci%C3%B3n+del+tren+Plaza+Cleto+Gonz%C3%A1lez+V%C3%ADquez!5e1!3m2!1ses!2ses!4v1407990078789" width="100%" height="100%" frameborder="0" style="border:0"></iframe>
+		</section>
+		<section id="iconos">
+			<header class="modaltitle orange"><h2>Galer&iacute;a de Iconos</h2></header>
+		     <a class="modal_close icon-cross" href="#" ></a>
+		     <br/>
+		     <a href="#" class="icons icon-heart2"></a>
+		     <a href="#" class="icons icon-gift"></a>
+		     <a href="#" class="icons icon-trophy"></a>
+		     <a href="#" class="icons icon-cup"></a>
+		     <a href="#" class="icons icon-food"></a>
+		     <a href="#" class="icons icon-shop"></a>
+		</section>
+		
+		<script type="text/javascript" src="js/jquery.ba-cond.min.js"></script>
+		<script type="text/javascript" src="js/jquery.slitslider.js"></script>
+		<script type="text/javascript">	
+			$(function() {
+			
+				var Page = (function() {
+
+					var $navArrows = $( '#nav-arrows' ),
+						$nav = $( '#nav-dots > span' ),
+						slitslider = $( '#slider' ).slitslider( {
+							onBeforeChange : function( slide, pos ) {
+
+								$nav.removeClass( 'nav-dot-current' );
+								$nav.eq( pos ).addClass( 'nav-dot-current' );
+
+							}
+						} ),
+
+						init = function() {
+
+							initEvents();
+							
+						},
+						initEvents = function() {
+
+							// add navigation events
+							$navArrows.children( ':last' ).on( 'click', function() {
+
+								slitslider.next();
+								return false;
+
+							} );
+
+							$navArrows.children( ':first' ).on( 'click', function() {
+								
+								slitslider.previous();
+								return false;
+
+							} );
+
+							$nav.each( function( i ) {
+							
+								$( this ).on( 'click', function( event ) {
+									
+									var $dot = $( this );
+									
+									if( !slitslider.isActive() ) {
+
+										$nav.removeClass( 'nav-dot-current' );
+										$dot.addClass( 'nav-dot-current' );
+									
+									}
+									
+									slitslider.jump( i + 1 );
+									return false;
+								
+								} );
+								
+							} );
+
+						};
+
+						return { init : init };
+
+				})();
+
+				Page.init();
+
+				/**
+				 * Notes: 
+				 * 
+				 * example how to add items:
+				 */
+
+				/*
+				
+				var $items  = $('<div class="sl-slide sl-slide-color-2" data-orientation="horizontal" data-slice1-rotation="-5" data-slice2-rotation="10" data-slice1-scale="2" data-slice2-scale="1"><div class="sl-slide-inner bg-1"><div class="sl-deco" data-icon="t"></div><h2>some text</h2><blockquote><p>bla bla</p><cite>Margi Clarke</cite></blockquote></div></div>');
+				
+				// call the plugin's add method
+				ss.add($items);
+
+				*/
+			
+			});
+		</script>
+	</body>
+</html>

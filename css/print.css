@@ -1,0 +1,56 @@
+.logo{
+	width: 35%;
+	margin: 15px auto;
+	padding: 0;
+}
+.sl-slide-inner{
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+.responsivepage{
+	margin: 0;
+	padding: 0;
+	width: 700px;
+}
+div.pasos{
+	display: inline-block;
+	margin: 0 10px 0 0;
+	padding: 0;
+	text-align: left;
+	left: 0;
+	top: 0;
+	vertical-align: top;
+	width: 100%;
+}
+.hgray div.gray{
+	padding: 0;
+	margin-top: 5px;
+}
+.qrcode{
+	display: inline-block;
+	vertical-align: top;
+	width: 25%;
+}
+.despromo{
+	display: inline-block;
+	margin-right:5%;
+	vertical-align: top;
+	width: 60%;
+}
+.qrcode img{
+	width: 100%;
+}
+.logocomercio{
+	margin-left: 2%;
+}
+.promos{
+	border: 0;
+	padding: 0;
+}
+.icon-printer{
+	display: none;
+}
+.nav-dots{
+	display: none;
+}
