@@ -1,4 +1,5 @@
 .demo-1 .sl-slider-wrapper {
+	background: #50fbfd;
 	position: absolute;
 	width: 100%;
 	height: 100%;
@@ -7,9 +8,10 @@
 }
 
 .demo-2 .sl-slider-wrapper {
+	background: #50fcfd;
 	width: 100%;
 	height: 600px;
-	overflow: hidden;
+	overflow: auto;
 	position: relative;
 }
 
@@ -265,7 +267,7 @@
 /* First Slide */
 .demo-1 .bg-1 .sl-slide-inner,
 .demo-1 .bg-1 .sl-content-slice {
-	background: #fff url(../images/bg_blue.jpg) top center;
+	background: #50fcfd url(../images/bg_blue.jpg) top center;
 	background-size: cover;
 }
 

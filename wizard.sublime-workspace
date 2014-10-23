@@ -5,27 +5,51 @@
 		[
 			[
 				"mar",
-				"margin-bottom"
-			],
-			[
-				"bo",
-				"border-radius"
+				"margin-left"
 			],
 			[
 				"bor",
 				"border"
 			],
 			[
+				"marg",
+				"margin"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
 				"fon",
 				"font-size"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"b",
+				"border"
 			],
 			[
 				"pa",
 				"padding"
 			],
 			[
-				"te",
+				"padd",
+				"padding"
+			],
+			[
+				"t",
 				"text-align"
+			],
+			[
+				"bor-r",
+				"border-right"
 			],
 			[
 				"ba",
@@ -34,10 +58,6 @@
 			[
 				"no",
 				"nowrap"
-			],
-			[
-				"li",
-				"list-style"
 			],
 			[
 				"font",
@@ -49,10 +69,6 @@
 			],
 			[
 				"ma",
-				"margin"
-			],
-			[
-				"marg",
 				"margin"
 			],
 			[
@@ -70,10 +86,6 @@
 			[
 				"pos",
 				"position"
-			],
-			[
-				"b",
-				"bottom"
 			],
 			[
 				"ov",
@@ -156,10 +168,6 @@
 				"border-spacing"
 			],
 			[
-				"t",
-				"text-transform"
-			],
-			[
 				"m",
 				"margin"
 			],
@@ -190,10 +198,6 @@
 			[
 				"bold",
 				"bolder"
-			],
-			[
-				"padd",
-				"padding-top"
 			],
 			[
 				"co",
@@ -359,18 +363,15 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 11265,
+				"buffer_size": 16657,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": ".logo{\n	display: block;\n	margin:  0 auto;\n	padding-top:15%;\n	width: 50%;\n}\n.logo img{\n	width: 100%;\n}\n.demo-1 .sl-slide div.pasos{\n	background: #fff;\n	padding: 3px 10px 5px 60px;\n	position: relative;\n	font-size: 30px;\n	font-weight: normal;\n	font-family: 'Didact Gothic', sans-serif;\n	margin-top: 25px;\n	margin-bottom: 20px;\n	width: 100%;\n	text-align: left;\n	top: 25%;\n	/**margin: 0 0 -120px 0;*/\n}\ndiv.pasos .paso{\n	color: #fff;\n	display: block;\n	border:4px solid #fff;\n	border-radius: 50px;\n	font-family: 'Questrial', sans-serif;\n	font-size: 35px;\n	font-weight: bold;\n	height:70px;\n	left:-25px;\n	position: absolute;\n	text-align: center;\n	padding-top:15px; \n	top:-10px;\n	width: 70px;\n}\n.next{\n	color: #fff;\n	cursor: pointer;\n	border:0;\n	border-radius: 5px;\n	display: block;\n	font-family: 'Questrial', sans-serif;\n	font-size: 25px;\n	float: right;\n	height: 42px;\n	width: 73px;\n}\n.next:hover{\n	background: #333;\n}\n.red{\n	background: #be120d;\n}\n.lemon{\n	background: #8fd200;\n}\n.responsivepage h1{\n	color: #087f8f;\n	width: 80%;\n	max-width: 960px;\n	margin: 0 auto;\n	font-size: 20px;\n	position: relative;\n	padding: 20px 0 5px 0;\n	text-transform: uppercase;\n	z-index: 100;\n}\n.hred{\n	color: #be120d;\n}\n.hgreen{\n	color: #8fd200;\n}\n.fields{\n	overflow: hidden;\n}\n.fields label{\n	color: #444444;\n	display: inline-block;\n	font-family: 'Roboto Regular', sans-serif;\n	font-size: 14px;\n	text-align: right;\n	padding:5px 10px 5px 10px;\n	width: 20%;\n}\n.fields input,.fields select, .fields textarea{\n	color: #444444;\n	border: 2px solid #59f9fb;\n	border-radius: 10px;\n	font-family: 'Roboto Regular', sans-serif;\n	font-size: 14px;\n	margin: 2px 0;\n	padding:6px 10px;\n	\n}\n.fieldblockleft, .fieldblockright{\n	display: inline-block;\n	vertical-align: top;\n}\n.paso1 input{\n	width: 35%;\n}\n.paso2 input, .paso2 select{\n	/*width: 35%;*/\n}\nfieldset{\n	border: 0;\n	margin: 15px 0;\n}\n\n#lean_overlay {\n    position: fixed;\n    z-index:100;\n    top: 0px;\n    left: 0px;\n    height:100%;\n    width:100%;\n    background: #000;\n    display: none;\n}\n#agregar_local {\n    position: relative;\n	width: 300px;\n	padding: 30px; \n	display: none;\n	background: #FFF;\n	border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px;\n	box-shadow: 0px 0px 4px rgba(0,0,0,0.7); -webkit-box-shadow: 0 0 4px rgba(0,0,0,0.7); -moz-box-shadow: 0 0px 4px rgba(0,0,0,0.7);\n}\n#mapa {\n    position: fixed;\n    z-index:100;\n    top: 0px;\n    left: 0px;\n    height:500px;\n    width:700px;\n    background: #000;\n    display: none;\n}\n.modal_close{\n	position: absolute;\n	top: 12px;\n	right: 12px;\n	display: block;\n	width: 14px;\n	height: 14px;\n	z-index: 2;\n}\n\n.sl-slider-wrapper {\n	width: 800px;\n	height: 400px;\n	margin: 0 auto;\n	position: relative;\n	overflow: hidden;\n}\n\n.sl-slider {\n	position: absolute;\n	top: 0;\n	left: 0;\n}\n\n/* Slide wrapper and slides */\n\n.sl-slide,\n.sl-slides-wrapper,\n.sl-slide-inner {\n	position: absolute;\n	width: 100%;\n	height: 100%;\n	top: 0;\n	left: 0;\n} \n.responsivepage{\n	margin: 0 auto;\n	width:40%;\n	position: relative;\n} \n.sl-slide {\n	z-index: 1;\n}\n\n/* The duplicate parts/slices */\n\n.sl-content-slice {\n	overflow: hidden;\n	position: absolute;\n	-webkit-box-sizing: content-box;\n	-moz-box-sizing: content-box;\n	box-sizing: content-box;\n	background: #fff;\n	-webkit-backface-visibility: hidden;\n	-moz-backface-visibility: hidden;\n	-o-backface-visibility: hidden;\n	-ms-backface-visibility: hidden;\n	backface-visibility: hidden;\n	opacity : 1;\n}\n\n/* Horizontal slice */\n\n.sl-slide-horizontal .sl-content-slice {\n	width: 100%;\n	height: 50%;\n	left: -200px;\n	-webkit-transform: translateY(0%) scale(1);\n	-moz-transform: translateY(0%) scale(1);\n	-o-transform: translateY(0%) scale(1);\n	-ms-transform: translateY(0%) scale(1);\n	transform: translateY(0%) scale(1);\n}\n\n.sl-slide-horizontal .sl-content-slice:first-child {\n	top: -200px;\n	padding: 200px 200px 0px 200px;\n}\n\n.sl-slide-horizontal .sl-content-slice:nth-child(2) {\n	top: 50%;\n	padding: 0px 200px 200px 200px;\n}\n\n/* Vertical slice */\n\n.sl-slide-vertical .sl-content-slice {\n	width: 50%;\n	height: 100%;\n	top: -200px;\n	-webkit-transform: translateX(0%) scale(1);\n	-moz-transform: translateX(0%) scale(1);\n	-o-transform: translateX(0%) scale(1);\n	-ms-transform: translateX(0%) scale(1);\n	transform: translateX(0%) scale(1);\n}\n\n.sl-slide-vertical .sl-content-slice:first-child {\n	left: -200px;\n	padding: 200px 0px 200px 200px;\n}\n\n.sl-slide-vertical .sl-content-slice:nth-child(2) {\n	left: 50%;\n	padding: 200px 200px 200px 0px;\n}\n\n/* Content wrapper */\n/* Width and height is set dynamically */\n.sl-content-wrapper {\n	position: absolute;\n}\n\n.sl-content {\n	width: 100%;\n	height: 100%;\n	background: #fff;\n}\n\n/* Default styles for background colors */\n.sl-slide-horizontal .sl-slide-inner {\n	background: #ddd;\n}\n\n.sl-slide-vertical .sl-slide-inner {\n	background: #ccc;\n}\n\n@media screen and (max-width: 660px){\n	.responsivepage{\n		width: 100%;\n	} \n}\n@media screen and (min-width: 661px) and (max-width: 1024px){\n	.responsivepage{\n		width: 80%;\n	} \n}\n@media screen and (min-width: 1025px) and (max-width: 1280px){\n	.responsivepage{\n		width: 600px;\n	} \n}\n@media screen and (min-width: 1025px) and (max-width: 1280px){\n	.responsivepage{\n		width: 600px;\n	} \n}\n\n",
 			"file": "css/style.css",
-			"file_size": 5062,
-			"file_write_time": 130524660339643804,
 			"settings":
 			{
-				"buffer_size": 5165,
+				"buffer_size": 9626,
 				"line_ending": "Unix"
 			}
 		},
@@ -378,7 +379,23 @@
 			"file": "css/icons.css",
 			"settings":
 			{
-				"buffer_size": 2105,
+				"buffer_size": 2150,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/print.css",
+			"settings":
+			{
+				"buffer_size": 693,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/custom.css",
+			"settings":
+			{
+				"buffer_size": 11688,
 				"line_ending": "Unix"
 			}
 		}
@@ -435,6 +452,9 @@
 	},
 	"file_history":
 	[
+		"/C/Users/PC/Documents/clientes_hachewd/smartclub/icomoon (3)/style.css",
+		"/C/Users/PC/Documents/clientes_hachewd/smartclub/icomoon/demo.html",
+		"/C/Users/PC/Documents/clientes_hachewd/smartclub/wizard_html/css/icons.css",
 		"/C/Users/PC/Documents/clientes_hachewd/smartclub/icomoon (2)/style.css",
 		"/C/Users/PC/Documents/clientes_hachewd/smartclub/icomoon/style.css",
 		"/C/Users/PC/Documents/clientes_hachewd/smartclub/wizard_html/css/custom.css",
@@ -559,10 +579,7 @@
 		"/C/Users/PC/Documents/clientes_hachewd/presto/cambios/skin.css",
 		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/css/skin.css",
 		"/C/Users/PC/Documents/clientes_hachewd/presto/cambios/int-presto.css",
-		"/C/Users/PC/Documents/clientes_hachewd/presto/cambios/pedido-presto.css",
-		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/reservar_fiesta.html",
-		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/personalizar_hamburguesa.html",
-		"/C/Users/PC/Documents/clientes_hachewd/presto/presto_website/css/component.css"
+		"/C/Users/PC/Documents/clientes_hachewd/presto/cambios/pedido-presto.css"
 	],
 	"find":
 	{
@@ -570,7 +587,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 90.0,
 		"where_history":
 		[
 			"C:\\Users\\PC\\Documents\\clientes_hachewd\\mauriciofonseca\\website",
@@ -582,6 +599,20 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Smartclub",
+			"logo.png",
+			".demo-1 .sl-slider-wrapper",
+			".sl-content-slice",
+			".demo-1 .bg-1 .sl-slide-inner, .demo-1 .bg-1 .sl-content-slice",
+			".sl-slider-wrapper",
+			"actions",
+			"	\n",
+			"#agregar_local",
+			"ico-plus",
+			"ico_plus",
+			"subfieldset",
+			"add_local",
+			"modaltitle",
 			"sl-slide-inner\"",
 			".demo-1 .sl-slide ",
 			"h2",
@@ -695,28 +726,16 @@
 			"display:inline-block;\n	vertical-align: top;",
 			"ñ",
 			"á",
-			"é",
-			"í",
-			"ó",
-			"ú",
-			"ñ",
-			"ó",
-			"í",
-			"é",
-			"á",
-			"ñ",
-			"ú",
-			"ó",
-			"í",
-			"é",
-			"á"
+			"é"
 		],
-		"highlight": true,
+		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
 		[
+			"Go!get",
+			"logo_goget.png",
 			"images/galleries/",
 			"&aacute;",
 			"</div><!-- /scroller-inner -->\n          </div><!-- /scroller -->\n     </div><!-- /pusher -->\n</div>",
@@ -824,7 +843,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -832,15 +851,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 11265,
+						"buffer_size": 16657,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7979,
-								7979
+								3238,
+								3238
 							]
 						],
 						"settings":
@@ -849,7 +868,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2724.0,
+						"translation.y": 599.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -859,15 +878,15 @@
 					"file": "css/style.css",
 					"settings":
 					{
-						"buffer_size": 5165,
+						"buffer_size": 9626,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5163,
-								5163
+								5316,
+								5316
 							]
 						],
 						"settings":
@@ -876,7 +895,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4698.0,
+						"translation.y": 1320.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -886,15 +905,15 @@
 					"file": "css/icons.css",
 					"settings":
 					{
-						"buffer_size": 2105,
+						"buffer_size": 2150,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								780,
-								767
+								1890,
+								1877
 							]
 						],
 						"settings":
@@ -903,7 +922,61 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 330.0,
+						"translation.y": 1471.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/print.css",
+					"settings":
+					{
+						"buffer_size": 693,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								691,
+								691
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/custom.css",
+					"settings":
+					{
+						"buffer_size": 11688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -962,7 +1035,7 @@
 		[
 			[
 				"",
-				"/C/Users/PC/Documents/clientes_hachewd/smartclub/smartclub.sublime-project"
+				"/C/Users/PC/Documents/clientes_hachewd/smartclub/smartclub_backend.sublime-project"
 			]
 		],
 		"width": 878.0
